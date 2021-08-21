@@ -1,0 +1,13 @@
+body
+{
+    background-color: rgb(253, 171, 222);
+    align-items: center;
+    justify-content: space-between;
+    justify-items: center;
+    text-align: center;
+}
+p
+{
+font-size: 10rem;
+color: rgb(231, 13, 56);
+}
